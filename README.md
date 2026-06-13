@@ -119,5 +119,3 @@ Visualized relationships between numerical and encoded categorical features.
 ## Author
 
 Raj Gupta
-
-This project was completed for learning and portfolio purposes.
